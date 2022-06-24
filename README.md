@@ -32,7 +32,7 @@ double click the executable.
 - see quick start
 
 2. if i upgrade my PC, will i be able to still have my config file?
-- yes, you can upgrade some parts, but not all, including ram, storage drive, gpu...
+- yes, you can upgrade some parts, including ram, storage drive, gpu, but not the cpu.
 
 3. will there be a mobile version?
 - no. not in the near future.
