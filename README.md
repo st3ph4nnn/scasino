@@ -12,7 +12,7 @@ the game features:
 - neat graphics (minimalistic, but they look cool);  
 - anti-cheating system so everyone plays fair (not perfect, but it will stop memory value editors 90% of the time)  
 - lightweight usage on resources (tested on windows 10 with I3-4030U 1.8 GHZ and 8GB DDR3 RAM; about 3% cpu usage and 50MB ram)  
-- old hardware support (has to be 64-bit; minimum INTEL HD 2000 iGPU and a fairly bad-decent CPU);
+- relatively old hardware support (though has to be 64-bit; minimum INTEL HD 2000 iGPU and a fairly bad-decent CPU);
 - cross play ability (currently only supports linux and windows)
 - ... more to come
 
