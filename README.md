@@ -20,6 +20,7 @@ the game features:
 
 ### linux (any kind)
 just download the latest linux release, open a terminal and use ./scasino to play.
+WARNING! the dll file MUST be in the same directory as the executable  
 
 ### windows
 download the latest windows release (in form of a zip file) and extract it somewhere.  
