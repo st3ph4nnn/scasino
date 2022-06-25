@@ -23,7 +23,7 @@ just download the latest linux release, open a terminal and use ./scasino to pla
 
 ### windows
 download the latest windows release (in form of a zip file) and extract it somewhere.  
-WARNING! the libcurl-x86.dll MUST be in the same directory as the executable  
+WARNING! both of the dll files MUST be in the same directory as the executable  
 double click the executable.
 
 # FAQ
